@@ -1,7 +1,3 @@
----
-uid: VFDE_Landingpage
----
-
 # Vodafone Deutschland GmbH
 
 ## Project info
